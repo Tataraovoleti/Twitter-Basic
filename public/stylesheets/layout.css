@@ -1,0 +1,67 @@
+    body  
+    {  
+      font-family:Georgia, "Times New Roman", Times, serif;  
+      font-size: 18px;  
+      background-color: #4B7399;  
+      width: 100%;  
+      color: #ffffff;  
+      margin: 0;  
+      text-align: center;  
+    }  
+      
+    #content  
+    {  
+      width: 750px;  
+      margin: 0 auto;  
+      text-align: left;  
+    }
+	#message
+	{
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+     border-radius: 10px;
+	 font-family:Georgia, "Times New Roman", Times, serif;
+	 font-size:14px;
+	 color:#003399;
+	 padding:2px 0px 0px 5px;
+	}  
+      
+    .post  
+    {  
+      padding: 5px 20px 5px 20px;  
+      background-color: #ffffff;  
+      margin: 20px 0 20px 0;   
+      color:#603311	;
+	  font-size:14px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+     border-radius: 10px;
+
+    }  
+	#header
+	{
+	font-family:"Comic Sans MS";
+	font-size:36px;
+	color:#FFFFFF;
+	font-weight:bold;
+	}
+	#button
+	{
+	color:#FFFFFF;
+	background-color:#4B7399;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-weight:bold;
+	font-size:12px;
+	width:89px;
+	height:34px;
+	background-color:#1D45E9;
+	border:thin #000000;
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+     border-radius: 10px;
+	 letter-spacing:1px;
+	}
+	#button:hover
+	{
+	background-color:#000033;
+	}

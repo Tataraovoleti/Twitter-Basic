@@ -1,0 +1,5 @@
+        <% form_tag(:controller => "posts", :action => "create") do %>  
+      What are you doing?<br /> <br>
+      <%= text_area_tag(:message, nil, :size => "68x6",:id=>'message') %><br /> 
+      <%= submit_tag("Tweet",:id=>'button') %>  
+    <% end %>  
